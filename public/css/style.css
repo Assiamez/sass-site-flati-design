@@ -9514,7 +9514,45 @@ h3 {
 }
 .marge {
   padding-left: 2.5cm;
-  padding-right: 3.2cm;
+  padding-right: 2.5cm;
+}
+
+.contenu {
+  background-color: azure;
+}
+
+.cadre {
+  flex: 0 0 25%;
+}
+
+i span {
+  background-color: white;
+  width: 50px;
+  height: 100px;
+  border-radius: 100%;
+  color: bleu;
+}
+
+p {
+  font-size: 12px;
+}
+
+.col-7 p {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+ooter {
+  background-color: #259;
+  opacity: 0.8;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+footer a {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
 }
 
 /*# sourceMappingURL=style.css.map */
